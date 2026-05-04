@@ -23,7 +23,7 @@
 🌱 I’m currently learning **Machine Learning & Deep Learning**
 💬 Ask me about **Python, SQL, Data Analysis**
 📊 Exploring **AI models, Image Processing & Real-world datasets**
-📫 Reach me at **[vanshikaisngh1008@gmail.com](mailto:vanshikasingh1008@gmail.com)**
+📫 Reach me at **[vanshikasingh1008@gmail.com](mailto:vanshikasingh1008@gmail.com)**
 
 
 
